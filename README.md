@@ -1,2 +1,1 @@
-# very_simple_calculator
-calculator
+# safdar_calculator_cli
